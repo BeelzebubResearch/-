@@ -9,6 +9,6 @@ Instructions:
 5. When prompted click "add to path"
 6. Follow further instructions
 
-Hint: The solution lies within yourselves. And remember to KISS (=keep it short and simple). Mind the natural order. 
+Hint 1: The solution lies within yourselves. And remember to KISS (=keep it short and simple). Mind the natural order. 
 
 Hint 2: Use previous knowledge to find the code.
