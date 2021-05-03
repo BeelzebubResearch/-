@@ -8,6 +8,6 @@ Instructions:
 4. When prompted click "add path"
 5. Follow further instructions
 
-The solution lies within yourselves. And remember to KISS (=keep it short and simple).
+The solution lies within yourselves. And remember to KISS (=keep it short and simple). Mind the natural order. 
 
 Tip: Use previous knowledge to find the code.
